@@ -56,6 +56,7 @@ public class Candidat implements Serializable {
         this.nom = nom;
     }
 
+    
     @Id
     @GeneratedValue
 
